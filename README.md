@@ -1,6 +1,6 @@
-**# DeepSeek AI Assistant - VS Code Extension**
-
 <div align="center">
+
+# DeepSeek AI Assistant - VS Code Extension
 
 **智能编程助手 | 代码解释 | 代码优化 | AI问答**
 
@@ -22,14 +22,9 @@
 
 ## 🛠️ 安装方法
 
-### 从VS Code市场安装
-1. 打开VS Code
-2. 进入扩展面板 (Ctrl+Shift+X)
-3. 搜索 "DeepSeek AI Assistant"
-4. 点击安装
-
 ### 手动安装
 1. 下载最新的 `.vsix` 文件
 2. 在VS Code中运行：
    ```bash
    code --install-extension deepseek-for-code-1.0.0.vsix
+   ```
