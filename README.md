@@ -1,4 +1,4 @@
-# DeepSeek AI Assistant - VS Code Extension
+**# DeepSeek AI Assistant - VS Code Extension**
 
 <div align="center">
 
